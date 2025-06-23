@@ -1,8 +1,7 @@
 # counter_pizza Đào Quang Thắng
 ## Kết quả train model
-![R_curve](https://github.com/user-attachments/assets/c98a53cf-9765-4644-9257-2e7f9be6568c)
+![F1_curve](https://github.com/user-attachments/assets/7443d531-2dd9-4978-8c27-67180000ed3d)
 ![results](https://github.com/user-attachments/assets/c1f00436-56a7-4e1b-8736-912c8f4723f6)
-![results](https://github.com/user-attachments/assets/7ff9058f-30b8-417a-b57d-6e8e7ee80c83)
 ![train_batch2](https://github.com/user-attachments/assets/8c0bc1ff-f3c5-44bf-b190-49bc30358b96)
 # Hướng dẫn chạy
 Lấy video từ link gg drive: https://drive.google.com/drive/folders/19QSILvBetBvcXyHjR85DahatiHOQSp_A
